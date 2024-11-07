@@ -41,5 +41,28 @@ These include the following:
             1. [**ANN with L-layers & SGD**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/artificial-neural-network-from-scratch-l-layer.ipynb) from scratch
             2. [**ANN with regularization & SGD**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-regularization.ipynb) from scratch
             3. [**ANN with regularization, SGD & Dropout**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-reg-drop-out.ipynb) from scratch
+               1. [**K-Nearest Neighbors (KNN)**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Neighbors%20family/knn-from-scratch.ipynb) from scratch
+            2. [**Linear Regression (+Lasso +Ridge Regressions)**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Generalised%20Linear%20Models%20(GLM)%20family/linear-regression-from-scratch.ipynb) from scratch
+            3. [**Logistic Regression**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Generalised%20Linear%20Models%20(GLM)%20family/logistic-regression-from-scratch-v2.ipynb) (with Stochastic Gradient Descent & Regularization) from scratch
+            4. [**Decision Tree (~CART)**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Tree%20Family/decision-tree-clf-from-scratch.ipynb) for classification from scratch
+            5. [**Bagging Ensemble**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Tree%20Family/bagging-and-random-forest-ensemble-from-scratch.ipynb) for classification from scratch
+            6. [**Random Forest ensemble**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Tree%20Family/bagging-and-random-forest-ensemble-from-scratch.ipynb) for classification from scratch
+            7. [**Stacking ensemble**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Ensembles/stacking-ensemble-from-scratch.ipynb) for classification from scratch
+            8. [**Gradient Boosting Machine (GBMs)**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Tree%20Family/gradient-boosting-from-scratch-regression.ipynb) ensemble for regression from scratch
+            9. [**Gradient Boosting Machine (GBMs)**]() ensemble for classification from scratch
+            
+      3. **Unsupervised ML from scratch** - Manual implementation of popular classical ML algorithms used for data exploration & pattern finding exercises. _These have been benchmarked against the available Scikit-Learn or relevant versions_. These include the following:
+      
+            1. [**Principal Component Analysis (PCA)**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Un-Supervised%20ML%20From%20Scratch/Dimensionality%20Reduction/pca-from-scratch.ipynb) from scratch
+            2. [**K-Means Clustering**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Un-Supervised%20ML%20From%20Scratch/Clustering%20Techniques/k-means-clustering-from-scratch.ipynb) from scratch
+            3. [**DBSCAN**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Un-Supervised%20ML%20From%20Scratch/Clustering%20Techniques/dbscan-from-scratch.ipynb) - (Density-Based Spatial Clustering of Applications with Noise) from scratch
+            
+      4. **Artificial Neural Networks (ANN) from scratch** - Manual implementation of deep neural networks with dynamic hyper-parameters as offered in the tensorflow packages. _These have been benchmarked against the available Tensorflow, Keras or relevant versions_. These include the following:
+      
+            1. [**ANN with L-layers & SGD**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/artificial-neural-network-from-scratch-l-layer.ipynb) from scratch
+            2. [**ANN with regularization & SGD**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-regularization.ipynb) from scratch
+            3. [**ANN with regularization, SGD & Dropout**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-reg-drop-out.ipynb) from scratch
+            
+            
             
             
